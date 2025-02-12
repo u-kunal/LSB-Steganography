@@ -1,6 +1,6 @@
 # LSB-Steganography
 
-Project 1: LSB Image Steganography
+Project : LSB Image Steganography
 
 Abstarct:
 
